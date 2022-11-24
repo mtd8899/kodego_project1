@@ -8,5 +8,6 @@
 }
 
 .side-banner{
-    height: 800;
+    width: 180px;
+    max-height: 650px;
 }
