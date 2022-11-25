@@ -6,24 +6,3 @@
 .bg-inner{
     background-color: #d6d4d4;
 }
-
-/* @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    /* .button {
-      height: 100%;
-      padding: 1px;
-    }
-
-    .cont-button{
-        background-color: aqua;
-        height: 150px;
-        
-    }
-    .col-a{
-        height: 50%;
-    }
-
-    .col-a p{
-        padding: 0;
-    }
-  } */ 
